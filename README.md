@@ -1,12 +1,22 @@
 ### Hi, I'm Alon 👋
 
-**Co-Founder · CTO & Head of AI** at Locksmith Connections, a US locksmith dispatch brand that has served close to one million customers since 2013.
+**Google Ads Architect · Founder & CTO**
 
-I build AI-native systems that run a real business end to end: the CRM, an AI voice agent that answers and books calls, AI quality auditing, fraud detection, and the cloud and DevOps behind them. I work by directing AI coding agents (Claude Code): I set the requirements, make the product and architecture decisions, and verify every release.
+For 13 years my core expertise has been advanced Google Ads architecture and campaign management, with conversion tracking built for call centers and lead-generation businesses: tracking that follows a click through the phone call to the finished job and the profit it made.
+
+I'm a co-founder of Locksmith Connections, a US locksmith dispatch brand founded in 2013 that has served close to one million customers.
+
+In 2026 I founded Ava Connects, my own AI-native SaaS CRM for field-service businesses. I build it by directing AI coding agents (Claude Code): I set the requirements, make the product and architecture decisions, and verify every release.
 
 ---
 
 #### What I've built
+
+**[Google Ads architecture & conversion tracking](https://github.com/alon005/google-ads-architecture)** · *2013 – present*
+
+A US-wide account for a call-center business: at its peak about 9,500 campaigns and a few hundred thousand keywords across 40+ states and 100+ cities. Call tracking per market, offline conversions with each finished job's real value, Target ROAS on profit, and the landing pages behind it.
+
+`Google Ads` `Target ROAS` `offline conversions` `call tracking` `landing pages`
 
 **[Ava Connects](https://github.com/alon005/ava-connects)** · multi-tenant SaaS CRM · *2026*
 
@@ -41,12 +51,6 @@ A live performance dashboard on the CRM's home page: the day, the week, agents, 
 One view across Workiz (API), Google Ads and RingCentral VoIP, to run the call center, the leads and the money.
 
 `Google Apps Script` `Workiz API` `Google Ads` `RingCentral`
-
-**[The company websites](https://github.com/alon005/lc-websites)**
-
-The PPC landing pages and the organic site: built and run on WordPress for years, with conversion tracking I implemented by hand; rebuilt on Cloudflare in 2026.
-
-`Cloudflare` `WordPress` `Google Ads conversion tracking`
 
 ---
 
