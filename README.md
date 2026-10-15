@@ -20,7 +20,7 @@ A US-wide account for a call-center business: at its peak about 9,500 campaigns 
 
 **[Ava Connects](https://github.com/alon005/ava-connects)** · multi-tenant SaaS CRM · *2026*
 
-Replaced Workiz for the whole business: jobs, dispatch to technicians, SMS and WhatsApp messaging, payments and settlements, reporting. Live since 10 Aug 2026: 5,500+ jobs, 9,700+ inbound calls and 44,000+ SMS in its first ten weeks.
+Replaced a commercial field-service platform (Workiz) for a whole live operation: jobs, dispatch to technicians, SMS and WhatsApp messaging, payments and settlements, reporting. Live since 10 Aug 2026: 5,500+ jobs, 9,700+ inbound calls and 44,000+ SMS in its first ten weeks.
 
 Automation-first: most of the operation runs on deterministic rules that read the data and act on it; AI models are used only where they add real value (call summaries, judgment calls), which keeps it fast, predictable and cheap. The database is profiled and tuned (indexes, query rewrites).
 
@@ -30,7 +30,7 @@ Secure and recoverable: passkey sign-in, a live sessions monitor, role-based per
 
 **[Ava](https://github.com/alon005/ava-voice-agent)** · AI voice agent · *2026*
 
-Answers the company's calls and books jobs into the CRM through tool calls. An AI judge decides which dropped callers she calls back, and every change is replayed against real calls before release. 639 calls answered and 306 jobs booked on her own since go-live.
+Answers a field-service company's calls and books jobs into the CRM through tool calls. An AI judge decides which dropped callers she calls back, and every change is replayed against real calls before release. 639 calls answered and 306 jobs booked on her own since go-live.
 
 `Retell` `Gemini` `LLM tool design`
 
