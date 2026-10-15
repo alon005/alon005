@@ -1,6 +1,6 @@
 ### Hi, I'm Alon 👋
 
-**Google Ads Architect · Founder & CTO**
+**Founder & CTO · Growth & AI Automation**
 
 For 13 years my core expertise has been advanced Google Ads architecture and campaign management, with conversion tracking built for call centers and lead-generation businesses: tracking that follows a click through the phone call to the finished job and the profit it made.
 
