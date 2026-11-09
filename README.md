@@ -46,6 +46,12 @@ A live performance dashboard on the CRM's home page: the day, the week, agents, 
 
 `WhatsApp API (WHAPI)` `Twilio` `Gemini` `automated dashboard screenshots`
 
+**[Natav](https://github.com/alon005/natav-intake)** · *pre-launch, 2026*
+
+Routes what comes into a business (email, calls, WhatsApp) to the right place in monday. Installed on each client's own accounts, so their data stays with them.
+
+`Cloudflare Workers` `D1` `Gemini` `monday API`
+
 **[The master dashboard](https://github.com/alon005/master-dashboard)** · *before 2026*
 
 One view across Workiz (API), Google Ads and RingCentral VoIP, to run the call center, the leads and the money.
